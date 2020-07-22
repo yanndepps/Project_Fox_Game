@@ -4,12 +4,15 @@
   "description": "a virtual pet toy game from the 90s",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html"
+    "dev": "parcel src/index.html",
+    "format": "prettier --ignore-path ./.gitignore --write \"./**/*.{html,json,js,ts,css}\"",
+    "format-check": "prettier --ignore-path ./.gitignore --check \"./**/*.{html,json,js,ts,css}\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.5"
   }
 }
