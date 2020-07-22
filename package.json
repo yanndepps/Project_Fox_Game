@@ -1,0 +1,12 @@
+{
+  "name": "project_fox_game",
+  "version": "1.0.0",
+  "description": "a virtual pet toy game from the 90s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
