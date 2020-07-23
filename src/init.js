@@ -1,4 +1,4 @@
-import game from './gameState';
+import game from "./gameState";
 
 const TICK_RATE = 3000;
 

@@ -1,11 +1,11 @@
 const gameState = {
-  current: 'INIT',
+  current: "INIT",
   clock: 1,
   tick() {
     this.clock++;
-    console.log('clock', this.clock);
+    console.log("clock", this.clock);
     return this.clock;
-  }
+  },
 };
 
 export default gameState;
