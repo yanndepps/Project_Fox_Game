@@ -1,0 +1,77 @@
+[17:24:51.166] Global cache location '/Users/yanndepps/Library/Caches/typescript/3.9', safe file path '/users/yanndepps/.config/yarn/global/node_modules/typescript/lib/typingsafelist.json', types map path /users/yanndepps/.config/yarn/global/node_modules/typescript/lib/typesmap.json
+[17:24:51.167] Processing cache location '/Users/yanndepps/Library/Caches/typescript/3.9'
+[17:24:51.167] Trying to find '/Users/yanndepps/Library/Caches/typescript/3.9/package.json'...
+[17:24:51.170] Loaded content of '/Users/yanndepps/Library/Caches/typescript/3.9/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.499"},"devDependencies":{"@types/async":"^3.2.3","@types/atob":"^2.1.2","@types/canvas-confetti":"^1.0.0","@types/eslint":"^7.2.0","@types/eslint-config-prettier":"^6.11.0","@types/eslint-plugin-prettier":"^3.1.0","@types/inherits":"0.0.30","@types/object-path":"^0.11.0","@types/prettier":"^2.0.2","@types/react":"^16.9.41","@types/react-dom":"^16.9.8","@types/sprintf":"^0.1.0","@types/testing-library__jest-dom":"^5.9.1"}}
+[17:24:51.170] Loaded content of '/Users/yanndepps/Library/Caches/typescript/3.9/package-lock.json'
+[17:24:51.183] Adding entry into typings cache: 'async' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/async/index.d.ts'
+[17:24:51.187] Adding entry into typings cache: 'atob' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/atob/index.d.ts'
+[17:24:51.190] Adding entry into typings cache: 'canvas-confetti' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/canvas-confetti/index.d.ts'
+[17:24:51.197] Adding entry into typings cache: 'eslint' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/eslint/ts3.1/index.d.ts'
+[17:24:51.200] Adding entry into typings cache: 'eslint-config-prettier' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/eslint-config-prettier/index.d.ts'
+[17:24:51.203] Adding entry into typings cache: 'eslint-plugin-prettier' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[17:24:51.206] Adding entry into typings cache: 'inherits' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/inherits/index.d.ts'
+[17:24:51.208] Adding entry into typings cache: 'object-path' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/object-path/index.d.ts'
+[17:24:51.211] Adding entry into typings cache: 'prettier' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/prettier/index.d.ts'
+[17:24:51.217] Adding entry into typings cache: 'react' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/react/index.d.ts'
+[17:24:51.222] Adding entry into typings cache: 'react-dom' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/react-dom/index.d.ts'
+[17:24:51.224] Adding entry into typings cache: 'sprintf' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/sprintf/index.d.ts'
+[17:24:51.226] Adding entry into typings cache: 'testing-library__jest-dom' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[17:24:51.226] Finished processing cache location '/Users/yanndepps/Library/Caches/typescript/3.9'
+[17:24:51.227] Process id: 555
+[17:24:51.227] NPM location: /usr/local/bin/npm (explicit '--npmLocation' not  provided)
+[17:24:51.227] validateDefaultNpmLocation: false
+[17:24:51.227] Npm config file: /Users/yanndepps/Library/Caches/typescript/3.9/package.json
+[17:24:51.227] Updating types-registry npm package...
+[17:24:51.228] Exec: /usr/local/bin/npm install --ignore-scripts types-registry@latest
+[17:24:53.821]     Succeeded. stdout:
+    + types-registry@0.1.499
+    updated 1 package and audited 39 packages in 1.754s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+[17:24:53.822] Updated types-registry npm package
+[17:24:54.445] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/init.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src","kind":"discover"}
+[17:24:54.462] Loaded safelist from types map file '/users/yanndepps/.config/yarn/global/node_modules/typescript/lib/typesmap.json'
+[17:24:54.463] Explicitly included types: []
+[17:24:54.464] Inferred typings from unresolved imports: []
+[17:24:54.464] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:24:54.464] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:24:54.464] DirectoryWatcher:: Added:: WatchInfo: /Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components
+[17:24:54.474] DirectoryWatcher:: Added:: WatchInfo: /Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules
+[17:24:54.474] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:24:54.475] Response has been sent.
+[17:24:54.475] No new typings were requested as a result of typings discovery
+[17:44:2.112] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":["/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/gameState.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src","kind":"discover"}
+[17:44:2.113] Explicitly included types: []
+[17:44:2.114] Inferred typings from unresolved imports: []
+[17:44:2.114] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:44:2.114] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:44:2.114] DirectoryWatcher:: Added:: WatchInfo: /Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components
+[17:44:2.115] DirectoryWatcher:: Added:: WatchInfo: /Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules
+[17:44:2.115] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:44:2.115] Response has been sent.
+[17:44:2.115] No new typings were requested as a result of typings discovery
+[17:52:34.291] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/gameState.js","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/init.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src","kind":"discover"}
+[17:52:34.292] Explicitly included types: []
+[17:52:34.294] Inferred typings from unresolved imports: []
+[17:52:34.294] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:52:34.295] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:52:34.295] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:52:34.295] Response has been sent.
+[17:52:34.296] No new typings were requested as a result of typings discovery
+[17:52:36.915] Got install request {"projectName":"/dev/null/inferredProject2*","fileNames":[],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src","kind":"discover"}
+[17:52:36.917] Explicitly included types: []
+[17:52:36.918] Inferred typings from unresolved imports: []
+[17:52:36.918] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:52:36.918] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[17:52:36.918] Sending response:
+    {"projectName":"/dev/null/inferredProject2*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[17:52:36.919] Response has been sent.
+[17:52:36.919] No new typings were requested as a result of typings discovery

@@ -1,0 +1,48 @@
+[15:56:37.568] Global cache location '/Users/yanndepps/Library/Caches/typescript/3.9', safe file path '/users/yanndepps/.config/yarn/global/node_modules/typescript/lib/typingsafelist.json', types map path /users/yanndepps/.config/yarn/global/node_modules/typescript/lib/typesmap.json
+[15:56:37.570] Processing cache location '/Users/yanndepps/Library/Caches/typescript/3.9'
+[15:56:37.571] Trying to find '/Users/yanndepps/Library/Caches/typescript/3.9/package.json'...
+[15:56:37.572] Loaded content of '/Users/yanndepps/Library/Caches/typescript/3.9/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.499"},"devDependencies":{"@types/async":"^3.2.3","@types/atob":"^2.1.2","@types/canvas-confetti":"^1.0.0","@types/eslint":"^7.2.0","@types/eslint-config-prettier":"^6.11.0","@types/eslint-plugin-prettier":"^3.1.0","@types/inherits":"0.0.30","@types/object-path":"^0.11.0","@types/prettier":"^2.0.2","@types/react":"^16.9.41","@types/react-dom":"^16.9.8","@types/sprintf":"^0.1.0","@types/testing-library__jest-dom":"^5.9.1"}}
+[15:56:37.572] Loaded content of '/Users/yanndepps/Library/Caches/typescript/3.9/package-lock.json'
+[15:56:37.584] Adding entry into typings cache: 'async' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/async/index.d.ts'
+[15:56:37.587] Adding entry into typings cache: 'atob' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/atob/index.d.ts'
+[15:56:37.590] Adding entry into typings cache: 'canvas-confetti' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/canvas-confetti/index.d.ts'
+[15:56:37.596] Adding entry into typings cache: 'eslint' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/eslint/ts3.1/index.d.ts'
+[15:56:37.599] Adding entry into typings cache: 'eslint-config-prettier' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/eslint-config-prettier/index.d.ts'
+[15:56:37.602] Adding entry into typings cache: 'eslint-plugin-prettier' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/eslint-plugin-prettier/index.d.ts'
+[15:56:37.605] Adding entry into typings cache: 'inherits' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/inherits/index.d.ts'
+[15:56:37.608] Adding entry into typings cache: 'object-path' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/object-path/index.d.ts'
+[15:56:37.610] Adding entry into typings cache: 'prettier' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/prettier/index.d.ts'
+[15:56:37.616] Adding entry into typings cache: 'react' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/react/index.d.ts'
+[15:56:37.618] Adding entry into typings cache: 'react-dom' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/react-dom/index.d.ts'
+[15:56:37.620] Adding entry into typings cache: 'sprintf' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/sprintf/index.d.ts'
+[15:56:37.622] Adding entry into typings cache: 'testing-library__jest-dom' => '/Users/yanndepps/Library/Caches/typescript/3.9/node_modules/@types/testing-library__jest-dom/index.d.ts'
+[15:56:37.622] Finished processing cache location '/Users/yanndepps/Library/Caches/typescript/3.9'
+[15:56:37.623] Process id: 13704
+[15:56:37.623] NPM location: /usr/local/bin/npm (explicit '--npmLocation' not  provided)
+[15:56:37.623] validateDefaultNpmLocation: false
+[15:56:37.623] Npm config file: /Users/yanndepps/Library/Caches/typescript/3.9/package.json
+[15:56:37.624] Updating types-registry npm package...
+[15:56:37.624] Exec: /usr/local/bin/npm install --ignore-scripts types-registry@latest
+[15:56:39.705]     Succeeded. stdout:
+    + types-registry@0.1.499
+    updated 1 package and audited 39 packages in 1.586s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+[15:56:39.705] Updated types-registry npm package
+[15:56:40.381] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/Users/yanndepps/.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/init.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src","kind":"discover"}
+[15:56:40.398] Loaded safelist from types map file '/users/yanndepps/.config/yarn/global/node_modules/typescript/lib/typesmap.json'
+[15:56:40.399] Explicitly included types: []
+[15:56:40.400] Inferred typings from unresolved imports: []
+[15:56:40.400] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[15:56:40.400] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components","/Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules"]}
+[15:56:40.400] DirectoryWatcher:: Added:: WatchInfo: /Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/bower_components
+[15:56:40.409] DirectoryWatcher:: Added:: WatchInfo: /Users/yanndepps/Documents/Kode/WEB/project_fox_game/src/node_modules
+[15:56:40.409] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[15:56:40.410] Response has been sent.
+[15:56:40.410] No new typings were requested as a result of typings discovery
