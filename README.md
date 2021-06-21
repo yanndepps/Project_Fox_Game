@@ -26,3 +26,10 @@
 - Once a fox dies, the landscape goes into the death scene, the fox becomes the tombstone, and the game is over. If the user presses the middle button again, it restarts the game with a new hatch.
 - Using a modal, you should tell the user to restart the game by pressing the middle button.
 - The fox should not be able to die, get hungry, poop, be fed, have the poop cleaned up, or fall asleep when it is being fed, sleeping, hatching, or dead.
+
+# Examples
+
+| Example screenshots                                 |                                                     |
+|-----------------------------------------------------|-----------------------------------------------------|
+| <img src="./examples/project_17.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> |
+| <img src="./examples/project_20.png" width="256" /> | <img src="./examples/project_19.png" width="256" /> |
