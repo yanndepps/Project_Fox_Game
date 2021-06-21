@@ -3,6 +3,7 @@
 - [Project Fox Game](#project-fox-game)
 - [Introduction](#introduction)
 - [Requirements](#requirements)
+- [Examples](#examples)
 
 # Introduction
  - Architect a full-featured front-end project from scratch while building a game with vanilla JavaScript, HTML and CSS.
@@ -29,7 +30,7 @@
 
 # Examples
 
-| Example screenshots                                 |                                                     |
-|-----------------------------------------------------|-----------------------------------------------------|
-| <img src="./examples/project_17.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> |
-| <img src="./examples/project_20.png" width="256" /> | <img src="./examples/project_19.png" width="256" /> |
+| Example screenshots                                 |                                                     |                                                     |  
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+| <img src="./examples/project_17.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> |
+| <img src="./examples/project_20.png" width="256" /> |
