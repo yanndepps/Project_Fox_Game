@@ -32,5 +32,5 @@
 
 | Example screenshots                                 |                                                     |                                                     |  
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-| <img src="./examples/project_17.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> |
+| <img src="./examples/project_17.png" width="256" /> | <img src="./examples/project_18.png" width="256" /> | <img src="./examples/project_19.png" width="256" /> |
 | <img src="./examples/project_20.png" width="256" /> |
